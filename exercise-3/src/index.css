@@ -1,0 +1,8 @@
+.Con {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+select {
+  width: 400px;
+}
